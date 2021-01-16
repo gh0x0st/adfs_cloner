@@ -1,6 +1,12 @@
 # Cloning Your ADFS Portal for Security Awareness
 In a previous commit, I showed you how you can [Clone Citrix Storefronts](https://github.com/gh0x0st/adfs_cloner) and incorporate custom PHP pages to capture credentials. Today, I'd like to show you the same concept, but this time we'll be targeting user portals for Active Directory Federation Services (ADFS), which is much easier.
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 ## Active Directory Federation Services
 ADFS is a technology developed by Microsoft to provide users with single sign-on access to systems. This includes organizations that utilize Office 365 and Active Directory (AD) to provide seamless access to company resources. 
 
